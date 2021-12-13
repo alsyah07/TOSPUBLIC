@@ -1,0 +1,17 @@
+﻿id;id_terminal;id_kota;perusahaan_id;nama_perusahaan;nama_direk;no_izin;tgl_kadal;jenis_pelayanan;no_telp;alamat_perusahaan;kode_pos;status
+1;;;100000221;PT. HS BUDIMAN 45;;;;AKAP;;Jl. Ir. H. Juanda No.31;;1
+2;;;100000225;PT. PRIMAJASA PERDANARAYAUTAMA;;;;AKAP;;Jl. Mayjen Sutoyo No.32, Cawang , Kramat Jati Jakarta Timur;;1
+3;;;100000657;PT. HIDUP BARU PUTRA;;;;AKAP;;Jl. Soekarno Hatta No. 456, Kel. Batununggal, Kec. Bandung Kidul, Bandung;;1
+4;;;100001188;PT. ASLI PRIMA INTI KARYA;;;;AKAP;;Jl. Jend Sudirman No. 41, Rt03/rw02, Labuan, Pandeglang;;1
+5;;;100001496;PT. PRIMAJASA PERDANARAYAPUTRA;;;;AKAP;;"Jl. Mayjen Sutoyo No.32 Rt/rw 004/009
+Kel.cawang Kec.kramat Jati Kota Administrasi Jakarta Timur";;1
+6;;;100001623;PT. KARUNIA BAKTI UTAMA;;;;AKAP;;Jalan Guntur Sari Rt 001 Rw 015 Desa Haurpaung Kecamatan Tarogong Kidul;;1
+7;;;100001862;PT. SINAR ALADDIN PUTRA CIAMIS;;;;AKAP;;Jl. Jendral Sudirman No. 86 Ds Ciamis Kec Ciamis Kab Ciamis;;1
+8;;;100001907;PT. DOA IBU TASIKMALAYA;;;;AKAP;;Jl. Ir. H. Juanda Km 3 By Pass Kelurahan Argasari Kecamatan Cihideung Kota Tasikmalaya;;1
+9;;;100001927;PT. GAPURANING RAHAYU;;;;AKAP;;"Jl. Raya Ciamis - Banjar KM 4 Dusun Citutut RT 03/RW 05 
+Dewasari Cijeungjing Kab Ciamis Jawa Barat 46271";;1
+10;;;100002006;DAMRI CABANG CILACAP;;;;AKAP;;Jl. Ahmad Yani No. 21 Cilacap;;1
+11;;;100003072;PT. SALUYU PRIMA GRUP;;;;AKAP;;"J. Terusan Paseh No.100 Rt/rw.03/02
+Kd. Tuguraja Kec Qhideung
+Kota Tastkmalaya";;1
+12;;;100003123;PT.WASPADA PRIMA UTAMA;;;;AKAP;;Jl Raya Sindangkasih Dusun Sukamaju Rt024 / Rw008 Sindangkasih Ciamis;;1
